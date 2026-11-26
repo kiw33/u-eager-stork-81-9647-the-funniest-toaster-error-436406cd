@@ -1,5 +1,11 @@
 # The Funniest Toaster Error Message
 
+[![make.fun](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd.svg)](https://make.fun/competitions/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/kiw33/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/rank.svg)](https://make.fun/competitions/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/kiw33/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/reward.svg)](https://make.fun/competitions/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
+
+[Bounty page](https://make.fun/bounty/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
+
 make.fun entry for competition
 `u-eager-stork-81-9647-the-funniest-toaster-error-436406cd`
 ($2, entries close 2026-11-26 05:10 WIB).
